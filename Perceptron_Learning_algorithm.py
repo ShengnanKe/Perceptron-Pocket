@@ -2,7 +2,7 @@
 """
 Class: DSCI552
 Assignment 4
-@author: Shengnan Ke
+@author: Shengnan Ke, Li An
 """
 
 # Implement the Perceptron Learning algorithm. 

@@ -2,7 +2,7 @@
 """
 Class: DSCI552
 Assignment 4
-@author: Shengnan Ke
+@author: Shengnan Ke, Li An
 """
 
 # Implement the Pocket algorithm and run it on the data file "classification.txt" 
